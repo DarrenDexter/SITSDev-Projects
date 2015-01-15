@@ -4,4 +4,4 @@ git commit -m "Batch Test"
 git push
 DarrenDexter
 34Fairmont
-PAUSE
+pause
